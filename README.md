@@ -12,3 +12,6 @@ The chart above exaggerates the differences in bar height, which makes it very m
 I contributed code to recreate this chart in a more accurate, readable and appropriate format.
 
 
+![Recreated chart](plot.png)
+
+The improved chart with correctly scaled bars to reflect their true proportions and visual advancements. 
